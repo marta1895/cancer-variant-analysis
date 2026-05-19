@@ -39,7 +39,7 @@ This project explores a cancer variant prioritization dataset using SQL (Postgre
 ## Project Structure
 
 ```
-Project_5_Cancer_Variant_Analysis/
+cancer-variant-analysis/
 │
 ├── cancer_variants_analysis.sql   # All SQL queries with inline comments
 ├── Cancer_Variants_Analysis.twb   # Tableau workbook
